@@ -12,3 +12,6 @@ How To Use
 
 1) Plug the Analogue pocket directly into the mister using the USB expansion board [May not work if other usb media devices are plugged into the mister, for maximum safety, remove any usb drives before initiating transfer.]
 2) From the Scripts menu on the mister, run "2pocket" to overwrite the saves on the pocket with the saves on the mister, or run "2mister" to overwrite the saves on the mister with the saves on the pocket
+
+
+Warning: As this is Alpha software, use at your own risk. I take no responsibility for any lost save files cause by the SiSTer. You may want to back up your files beforehand.
