@@ -4,6 +4,8 @@ Save sync script between the GBA cores on MiSTer and the Analogue Pocket's Spiri
 
 A simple script that pushes all the .sav files in the gba folder between the mister and the pocket
 
+Setup
+1) Take the "2Mister" and "2pocket" files, and place them in the "scripts" folder on your mister
 
 How To Use
 
