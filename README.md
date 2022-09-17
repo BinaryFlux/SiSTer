@@ -15,3 +15,12 @@ How To Use
 
 
 Warning: As this is Alpha software, use at your own risk. I take no responsibility for any lost save files cause by the SiSTer. You may want to back up your files beforehand.
+
+
+
+
+Roadmap
+____________________________________________________________________
+* SMS, Game Gear, etc support
+* Support for Neo Geo once the 0.7 pocket core launches
+* Potential support for other devices such as the steamdeck
